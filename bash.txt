@@ -2,3 +2,4 @@
 echo "(hello world)"
 NAME : $NAME
 echo : "($NAME)"
+echo "i just tried the code"
