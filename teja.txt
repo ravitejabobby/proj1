@@ -1,6 +1,5 @@
 hello world thos os a test file
 hey bob again im editing
-<<<<<<< HEAD
 
 
 testing slave brancg
@@ -8,5 +7,3 @@ testing slave brancg
 
 
 hey im testing reset values
-=======
->>>>>>> parent of 1d02b10... added slave branch
