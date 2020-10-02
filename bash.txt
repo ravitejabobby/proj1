@@ -3,3 +3,4 @@ echo "(hello world)"
 NAME : $NAME
 echo : "($NAME)"
 echo "( just tried the code )"
+echo "mylord"
