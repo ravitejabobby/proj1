@@ -2,4 +2,5 @@ hello world thos os a test file
 hey bob again im editing
 testing slave brancg
 
-hey im testing reset values
+hey im testing re
+testing  pramerter lines
